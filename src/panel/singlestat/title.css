@@ -1,0 +1,7 @@
+.singlestat-value {
+    position: absolute;
+    bottom: 30%;
+    width: 100%;
+    z-index: 1;
+    font-size: 2em;
+}
